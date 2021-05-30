@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
 .navcolor {
     font-family: 'Limelight', cursive;
@@ -24,4 +25,9 @@
 .specialfont{
     font-family: 'Squada One', cursive;
 
+}
+
+.color{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
 }
