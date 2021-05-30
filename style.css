@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+.navcolor {
+    font-family: 'Limelight', cursive;
+    color: black;
+}
+.navcolor:hover {
+    font-family: 'Limelight', cursive;
+    color: black;
+}
+
+.self{
+    background-image: url('menu.png') !important;
+}
+
+.black{
+    color: black;
+    /* font-family: 'Odibee Sans', cursive; */
+    font-family: 'Squada One', cursive;
+    font-size: 1rem;
+}
+
+.specialfont{
+    font-family: 'Squada One', cursive;
+
+}
